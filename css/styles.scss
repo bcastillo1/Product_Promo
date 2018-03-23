@@ -1,3 +1,10 @@
+// Framework
+@import 'bulma';
+// Light Gallery Base Styling
+@import 'lightgallery';
+// Light Gallery Animations
+@import 'lg-transitions';
+
 // Michael Busam's code
 
 body {
@@ -9,7 +16,7 @@ body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.49),rgba(0, 0, 0, 0.89)),url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1183172/tea.jpg');
 }
 .is-outlined {
-  background-color:transparent;
+  ground-color:transparent;
   //color:#fff;
 }
 .hero-cta {
